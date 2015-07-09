@@ -7,10 +7,6 @@ h1 {
   color: #e87415;
 }
 
-.submit {
-
-}
-
 .container {
   background-color: #e87415;
   max-width: 60px;
@@ -22,5 +18,12 @@ h1 {
 
 p {
   word-spacing: 8px;
+}
 
+nav {
+  border: 1px solid black;
+}
+
+td {
+  padding-left: 10%;
 }
